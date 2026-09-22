@@ -1,2 +1,3 @@
-# operacoes-por-deslocamento
-Operações realizadas através de shift e teste de saída
+ `Operações com binários por deslocamento`
+
+## Explicação
